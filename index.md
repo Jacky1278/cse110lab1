@@ -62,7 +62,7 @@ Here is my faviorite quote as a person:
 > *To the time to life, rather than to life in time* -Blasie Pascal 
 
 ### **Hobbies**:
-`- [x]  Not in NA or coming soon`
+- [x] **Not in NA or coming soon**
 - Reading Novels
 - Table Tennies
 - Gaming 
