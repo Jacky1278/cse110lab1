@@ -64,15 +64,16 @@ Here is my faviorite quote as a person:
 ### **Hobbies**:
 - Reading Novels
 - Table Tennies
-- Gaming (*[x] => Not in NA or coming soon*)
-  - []Dungeon Fighter Online
-  - []Final Fantasy XIV
-  - []Genshin Impact
-  - [][Coding games](https://www.codingame.com/start)
-  - [X]Lost Ark
-  - [X]Project BBQ
+- Gaming ([x] => Not in NA or coming soon)
+  - [ ]Dungeon Fighter Online
+  - [ ]Final Fantasy XIV
+  - [ ]Genshin Impact
+  - [ ][Coding games](https://www.codingame.com/start)
+  - [x]Lost Ark
+  - [x]Project BBQ
 - Moives
-  - my favorite move is **Coherence** and **Interstellar**
+  1. **Coherence**
+  2. **Interstellar**
 
 
 
