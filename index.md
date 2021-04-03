@@ -65,12 +65,12 @@ Here is my faviorite quote as a person:
 - Reading Novels
 - Table Tennies
 - Gaming ([x] => Not in NA or coming soon)
-  - [ ]Dungeon Fighter Online
-  - [ ]Final Fantasy XIV
-  - [ ]Genshin Impact
-  - [ ][Coding games](https://www.codingame.com/start)
-  - [x]Lost Ark
-  - [x]Project BBQ
+  - [ ] Dungeon Fighter Online
+  - [ ] Final Fantasy XIV
+  - [ ] Genshin Impact
+  - [ ] [Coding games](https://www.codingame.com/start)
+  - [x] Lost Ark
+  - [x] Project BBQ
 - Moives
   1. **Coherence**
   2. **Interstellar**
